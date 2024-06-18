@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.19
+Name: taskapp
+Formal-Name: taskapp
+App-ID: com.example.taskapp
+Version: 0.0.1
+Home-page: https://example.com/taskapp
+Download-URL: https://example.com/taskapp
+Author: vilhalva
+Author-email: vilhalva@example.com
+Summary: My first application
