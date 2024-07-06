@@ -38,15 +38,14 @@ O aplicativo de gerenciamento de tarefas é uma aplicação simples desenvolvida
    - O ID da tarefa selecionada é exibido no console para fins de debug (pode ser removido em uma versão final).
 
 ## EXECUTANDO O PROJETO:
-1. **Instalação e Configuração:**
-   - Certifique-se de ter Python 3.12 ou superior instalado em seu ambiente.
-   - Instale a biblioteca `toga` e suas dependências utilizando o gerenciador de pacotes `pip`:
-     ```
-     pip install toga
-     ```
+1. **Instalação:**
+   - Entre no diretório `./CODIGO/taskapp` e execute o comando:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 2. **Executando o Aplicativo:**
-   - Navegue até o diretório `./CODIGO/taskapp` usando o terminal.
    - Execute o aplicativo em modo de desenvolvimento utilizando o Briefcase:
      ```
      briefcase dev
