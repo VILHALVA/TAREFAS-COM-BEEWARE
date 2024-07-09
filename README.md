@@ -63,6 +63,7 @@ O aplicativo de gerenciamento de tarefas é uma aplicação simples desenvolvida
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE BEEWARE](https://github.com/VILHALVA/CURSO-DE-BEEWARE)
 * [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
+* [CURSO DE PYTHON COM SQLITE](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
